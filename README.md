@@ -319,6 +319,16 @@ Engineering production-quality web applications as an independent developer, wit
 
 ---
 
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuv9799&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -329,34 +339,34 @@ Engineering production-quality web applications as an independent developer, wit
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuv9799/yuv9799/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuv9799/yuv9799/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/yuv9799/yuv9799/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🎯 Current Focus
 
-<pre align="center">
-# Q3 2026 — Engineering Growth Roadmap
+<div align="center">
 
-learning:
-  - Advanced React patterns (Server Components, Concurrent Features)
-  - TypeScript at scale — generics, utility types, declaration merging
-  - System design fundamentals — distributed systems, CAP theorem
-  - LLM integration patterns — RAG, tool use, agent architectures
+### Q3 2026 — Engineering Growth Roadmap
 
-building:
-  - AI-powered web tools and developer utilities
-  - Full stack applications with Node.js + React + PostgreSQL
-  - Open-source components and reusable UI libraries
-  - Personal knowledge base and second-brain tooling
+| Category | Focus Areas |
+|----------|-------------|
+| 📚 **Learning** | Advanced React patterns · TypeScript at scale · System design · LLM/RAG architectures |
+| 🔨 **Building** | AI-powered web tools · Full stack Node.js + React + PostgreSQL · UI libraries |
+| 🔭 **Exploring** | Cloudflare Workers · WebAssembly · Docker · CI/CD pipelines · AWS cloud-native |
+| 🤝 **Open To** | Full-time roles (Frontend / Full Stack) · Internships 2026 · Open source collaboration |
 
-exploring:
-  - Edge computing and serverless architecture (Cloudflare Workers, Vercel Edge)
-  - WebAssembly for performance-critical browser applications
-  - DevOps fundamentals — Docker, CI/CD pipelines, GitHub Actions
-  - Cloud-native development on AWS
-
-open_to:
-  - Full-time software engineering roles (Frontend / Full Stack)
-  - Summer internships 2026
-  - Product development
-  - Open source collaboration and mentorship
+</div>
 
 ---
 
