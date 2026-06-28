@@ -319,16 +319,6 @@ Engineering production-quality web applications as an independent developer, wit
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuv9799&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -352,6 +342,8 @@ Engineering production-quality web applications as an independent developer, wit
 ---
 
 ## 🎯 Current Focus
+
+<div align="center">
 
 ```yaml
 # Q3 2026 — Engineering Growth Roadmap
@@ -380,6 +372,8 @@ open_to:
   - Product development
   - Open source collaboration and mentorship
 ```
+
+</div>
 
 ---
 
