@@ -343,9 +343,7 @@ Engineering production-quality web applications as an independent developer, wit
 
 ## 🎯 Current Focus
 
-<div align="center">
-
-```yaml
+<pre align="center">
 # Q3 2026 — Engineering Growth Roadmap
 
 learning:
@@ -371,9 +369,6 @@ open_to:
   - Summer internships 2026
   - Product development
   - Open source collaboration and mentorship
-```
-
-</div>
 
 ---
 
