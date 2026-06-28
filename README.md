@@ -323,7 +323,7 @@ Engineering production-quality web applications as an independent developer, wit
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=yuv9799&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuv9799&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -344,13 +344,10 @@ Engineering production-quality web applications as an independent developer, wit
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuv9799/yuv9799/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuv9799/yuv9799/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/yuv9799/yuv9799/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuv9799/yuv9799/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuv9799/yuv9799/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/yuv9799/yuv9799/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</div>
-
 
 ---
 
