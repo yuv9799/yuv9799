@@ -69,7 +69,7 @@ I am a software engineer with a strong foundation in full stack web development 
 
 I believe that the best software is built by engineers who understand the *why* behind the *what* — and I bring that clarity to every project I take on.
 
-**Open to:** Full-Time Roles · Internships · Freelance Projects · Open Source Collaboration · Research Partnerships
+**Open to:** Full-Time Roles · Internships · Open Source Collaboration · Research Partnerships
 
 ---
 
@@ -228,7 +228,7 @@ An exploration of the web platform's storage landscape — localStorage, session
 
 ## 💼 Experience
 
-**Software Developer** · Personal / Freelance Projects
+**Software Developer** · Personal Projects
 `2023 – Present`
 
 Engineering production-quality web applications as an independent developer, with a focus on delivering measurable user value and clean, maintainable codebases.
@@ -339,13 +339,18 @@ Engineering production-quality web applications as an independent developer, wit
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yuv9799&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuv9799/yuv9799/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuv9799/yuv9799/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/yuv9799/yuv9799/output/github-snake.svg" />
+</picture>
 
 </div>
+
 
 ---
 
@@ -375,7 +380,7 @@ exploring:
 open_to:
   - Full-time software engineering roles (Frontend / Full Stack)
   - Summer internships 2026
-  - Freelance product development
+  - Product development
   - Open source collaboration and mentorship
 ```
 
