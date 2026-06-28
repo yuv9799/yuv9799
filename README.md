@@ -323,7 +323,7 @@ Engineering production-quality web applications as an independent developer, wit
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=yuv9799&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=yuv9799&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
