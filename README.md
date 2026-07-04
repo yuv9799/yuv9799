@@ -292,7 +292,7 @@ Engineering production-quality web applications as an independent developer, wit
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-yuv9799-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yuv9799)
+[![LeetCode](https://img.shields.io/badge/LeetCode-yuv1__2raj-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yuv1_2raj/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-yuv9799-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/yuv9799)
 [![HackerRank](https://img.shields.io/badge/HackerRank-yuv9799-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/yuv9799)
 [![CodeChef](https://img.shields.io/badge/CodeChef-yuv9799-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yuv9799)
@@ -305,8 +305,8 @@ Engineering production-quality web applications as an independent developer, wit
 
 <div align="center">
 
-<a href="https://leetcode.com/yuv9799">
-  <img src="https://leetcard.jacoblin.cool/yuv9799?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" />
+<a href="https://leetcode.com/u/yuv1_2raj/">
+  <img src="https://leetcard.jacoblin.cool/yuv1_2raj?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" />
 </a>
 
 </div>
@@ -335,7 +335,7 @@ Engineering production-quality web applications as an independent developer, wit
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuv9799&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=yuv9799&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
