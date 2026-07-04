@@ -264,30 +264,6 @@ Engineering production-quality web applications as an independent developer, wit
 
 ---
 
-## 📜 Certifications
-
-<div align="center">
-
-### ☁️ AWS
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🔶 Oracle
-![Oracle Java](https://img.shields.io/badge/Oracle-Java%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle SQL](https://img.shields.io/badge/Oracle-Database%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### 🎓 NPTEL
-![NPTEL Python](https://img.shields.io/badge/NPTEL-Programming%20in%20Python-0064A4?style=for-the-badge&logo=python&logoColor=white)
-![NPTEL DSA](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-0064A4?style=for-the-badge&logo=codeforces&logoColor=white)
-
-### 🌐 Cisco
-![Cisco Networking](https://img.shields.io/badge/Cisco-Introduction%20to%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco CyberOps](https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-</div>
-
----
-
 ## 💻 Coding Profiles
 
 <div align="center">
