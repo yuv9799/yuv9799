@@ -301,6 +301,18 @@ Engineering production-quality web applications as an independent developer, wit
 
 ---
 
+## 📊 LeetCode Stats
+
+<div align="center">
+
+<a href="https://leetcode.com/yuv9799">
+  <img src="https://leetcard.jacoblin.cool/yuv9799?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20" alt="LeetCode Stats" />
+</a>
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -323,7 +335,7 @@ Engineering production-quality web applications as an independent developer, wit
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuv9799&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yuv9799&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
