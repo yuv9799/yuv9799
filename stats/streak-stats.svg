@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="180" viewBox="0 0 400 180" role="img" aria-label="Contribution Streak">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D0D1A"/>
+      <stop offset="100%" stop-color="#16162A"/>
+    </linearGradient>
+    <linearGradient id="bar-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6D28D9"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="180" rx="12" fill="url(#bg)" stroke="#4338CA" stroke-width="1.2" stroke-opacity="0.8"/>
+  <text x="22" y="32" fill="#7C3AED" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5px">🔥 Contribution Streak</text>
+  <line x1="22" y1="40" x2="378" y2="40" stroke="#4338CA" stroke-opacity="0.3" stroke-width="1"/>
+  <text x="22" y="63" fill="#C4B5FD" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">⚡  Current Streak</text>
+  <text x="378" y="63" fill="#FFFFFF" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="end">1 day</text>
+  <text x="22" y="92" fill="#C4B5FD" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">🏆  Longest Streak</text>
+  <text x="378" y="92" fill="#FFFFFF" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="end">15 days</text>
+  <text x="22" y="121" fill="#C4B5FD" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500">📈  Total Contributions</text>
+  <text x="378" y="121" fill="#FFFFFF" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="end">129</text>
+</svg>

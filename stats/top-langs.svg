@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="180" viewBox="0 0 400 180" role="img" aria-label="Top Languages">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D0D1A"/>
+      <stop offset="100%" stop-color="#16162A"/>
+    </linearGradient>
+    <linearGradient id="bar-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6D28D9"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="180" rx="12" fill="url(#bg)" stroke="#4338CA" stroke-width="1.2" stroke-opacity="0.8"/>
+  <text x="22" y="32" fill="#7C3AED" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0.5px">⚡ Top Languages</text>
+  <line x1="22" y1="40" x2="378" y2="40" stroke="#4338CA" stroke-opacity="0.3" stroke-width="1"/>
+  <circle cx="26" cy="54" r="4" fill="#3178C6"/>
+  <text x="36" y="58" fill="#C4B5FD" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="500">TypeScript</text>
+  <rect x="117" y="49" width="206" height="8" rx="4" fill="#232338"/>
+  <rect x="117" y="49" width="65" height="8" rx="4" fill="#3178C6"/>
+  <text x="378" y="58" fill="#FFFFFF" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" text-anchor="end">31.8%</text>
+  <circle cx="26" cy="77" r="4" fill="#E34F26"/>
+  <text x="36" y="81" fill="#C4B5FD" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="500">HTML</text>
+  <rect x="117" y="72" width="206" height="8" rx="4" fill="#232338"/>
+  <rect x="117" y="72" width="65" height="8" rx="4" fill="#E34F26"/>
+  <text x="378" y="81" fill="#FFFFFF" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" text-anchor="end">31.8%</text>
+  <circle cx="26" cy="100" r="4" fill="#F7DF1E"/>
+  <text x="36" y="104" fill="#C4B5FD" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="500">JavaScript</text>
+  <rect x="117" y="95" width="206" height="8" rx="4" fill="#232338"/>
+  <rect x="117" y="95" width="37" height="8" rx="4" fill="#F7DF1E"/>
+  <text x="378" y="104" fill="#FFFFFF" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" text-anchor="end">18.2%</text>
+  <circle cx="26" cy="123" r="4" fill="#1572B6"/>
+  <text x="36" y="127" fill="#C4B5FD" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="500">CSS</text>
+  <rect x="117" y="118" width="206" height="8" rx="4" fill="#232338"/>
+  <rect x="117" y="118" width="28" height="8" rx="4" fill="#1572B6"/>
+  <text x="378" y="127" fill="#FFFFFF" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" text-anchor="end">13.6%</text>
+  <circle cx="26" cy="146" r="4" fill="#3776AB"/>
+  <text x="36" y="150" fill="#C4B5FD" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="500">Python</text>
+  <rect x="117" y="141" width="206" height="8" rx="4" fill="#232338"/>
+  <rect x="117" y="141" width="9" height="8" rx="4" fill="#3776AB"/>
+  <text x="378" y="150" fill="#FFFFFF" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" text-anchor="end">4.5%</text>
+</svg>
