@@ -293,15 +293,15 @@ Engineering production-quality web applications as an independent developer, wit
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuv9799&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&icon_color=6D28D9&text_color=C4B5FD&ring_color=4338CA"/>
+<img height="180em" src="https://raw.githubusercontent.com/yuv9799/yuv9799/output/stats/github-stats.svg" alt="GitHub Statistics" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuv9799&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&text_color=C4B5FD"/>
+<img height="180em" src="https://raw.githubusercontent.com/yuv9799/yuv9799/output/stats/top-langs.svg" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yuv9799&theme=tokyonight&hide_border=true&background=0D0D1A&ring=7C3AED&fire=6D28D9&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=ffffff&sideNums=ffffff&dates=6D28D9" />
+<img src="https://raw.githubusercontent.com/yuv9799/yuv9799/output/stats/streak-stats.svg" alt="Contribution Streak" />
 
 </div>
 
